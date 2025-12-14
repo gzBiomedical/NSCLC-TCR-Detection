@@ -76,7 +76,7 @@ Each sample must have a corresponding TSV file containing the following columns:
 - `acdr3` (or `cdr3_aa`): CDR3 amino acid sequence.
 - `dataset_subgroup`: Used to parse the `specimen_label`.
 
-### 2. Metadata File (`participant_metadata_NSCLC.tsv`)
+### 2. Metadata File (`participant_NSCLC.tsv`)
 
 A tab-separated file linking samples to clinical labels:
 
